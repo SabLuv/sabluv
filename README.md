@@ -8,3 +8,4 @@
 ![Static Badge](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/Sass-1c1c1c?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/SQLITE-1c1c1c?style=for-the-badge&logo=sqlite)
+![Static Badge](https://img.shields.io/badge/C#-1c1c1c?style=for-the-badge&logo=sqlite)
