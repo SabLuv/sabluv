@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/SabLuv/sabluv/blob/main/assets/banner-rm.jpg?raw=true" 
+  <img src="https://github.com/SabLuv/Durinji/blob/main/assets/banner-rm.jpg?raw=true" 
        alt="Header" 
        width="100%" 
        style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin-bottom: 2rem;" />
