@@ -1,4 +1,4 @@
-![Header](https://github.com/SabLuv/sabluv/blob/main/assets/banner-rm.png)
+![Header](https://github.com/SabLuv/sabluv/blob/main/assets/banner-rm.jpg)
 ## Hi! I'm a beginner full stack developer
 
 ## Languages ​​and tools:
