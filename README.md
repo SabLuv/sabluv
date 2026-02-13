@@ -1,5 +1,5 @@
 ![Header](https://github.com/SabLuv/sabluv/blob/main/assets/banner-rm.jpg)
-## Hi! I'm a beginner full stack developer
+## Hi, I'm just a simple guy who is developing his own mini projects and learning everything new.
 
 ## Languages ​​and tools:
 ![Static Badge](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript)
