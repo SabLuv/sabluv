@@ -1,58 +1,46 @@
 <div align="center">
+
   <img src="https://github.com/SabLuv/sabluv/blob/main/assets/banner-rm.jpg?raw=true" 
        alt="Header" 
        width="100%" 
        style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin-bottom: 2rem;" />
 
-  <h1>Hey, I'm SabLuv 👋</h1>
+  <h1>Привет, я SabLuv 👋</h1>
+
   <p>
-    Just a simple guy turning ideas into code.<br>
-    Building mini-projects, exploring new tech, and learning every day.
+    Я обычный чел который реализует свои идеи в реальность.<br>
+    Занимался разработкой многостраничных сайтов на VUE и разработал пару крупных Telegram bots.<br>
+    Если меня заинтересовало что-то то я не брошу это до конца реализации, пытаюсь доработать каждый проект и сделать его уникальным
   </p>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Always%20Learning-1E90FF?style=for-the-badge&logo=book&logoColor=white" alt="Learning" />
-  
-  <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SabLuv&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabLuv&theme=radical&hide_border=true&background=0d1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff9d" alt="Streak" width="48%" />
-
-  <br><br>
-
-  <!-- Tech Stack -->
-  <h3>My Current Stack & Interests</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <!-- Добавляй свои: -->
-    <!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> -->
+    Сейчас в основном сижу на <b>Python</b>,<br>
+    В будущем хочу перейти на C++ или C#<br>
+    Раньше разрабатывал консольные программы на C#, но по итогу забросил
+  </p>
+
+  <h3>Мой текущий стек и инструменты</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Always%20Learning-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="В процессе обучения" />
   </p>
 
   <br>
 
-  <!-- Projects или что-то крутое -->
-  <h3>Some of my mini-projects</h3>
-  <p>Coming soon... или уже есть — чекни репозитории ниже 🔥</p>
+  <h3>Чем сейчас занимаюсь</h3>
+  <ul style="list-style: none; padding: 0; margin: 0 auto; max-width: 600px; text-align: left;">
+    <li>🔧 Пишу мелкие, но полезные проекты для себя и кентов</li>
+    <li>🧠 Чекаю че там в топе и пытаюсь понять новые фичи</li>
+    <li>🔥 Мне приятно кода хоть самый мелкий проект дает большую пользу</li>
+  </ul>
 
   <br>
 
-  <!-- Social / Contact -->
-  <h3>Let's connect</h3>
-  <p>
-    <a href="https://t.me/SabLuv" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <!-- Добавь Discord, Twitter/X, etc. если есть -->
-  </p>
+  <em>"Я не пишу блять скрипты для роблокса"</em>
+
+  <br><br>
 
 </div>
-
-<!-- Опционально: тёмная/светлая тема адаптация -->
-<style>
-  body { background: #0d1117; color: #c9d1d9; }
-  a { color: #58a6ff; }
-</style>
